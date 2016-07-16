@@ -1,2 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="top.fighter_lee.multiselectfilepickerlib"/>
+          package="top.fighter_lee.multiselectfilepickerlib">
+    <application>
+        <activity android:name=".activity.FilePickerActivity">
+
+        </activity>
+    </application>
+</manifest>
